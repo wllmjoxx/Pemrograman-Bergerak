@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "UAS_PEMBER",
+    "slug": "UAS_PEMBER",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "UAS_PEMBER"
+}
